@@ -1,10 +1,4 @@
 
-body{
-    background: #cccccc ;
-    text-align: center;
-
-}
-
 em{
     color: rgb(0, 119, 255);
 }
@@ -20,3 +14,19 @@ em{
  .imagembenefícios{
   width: 50%;
  }
+
+ .principal {
+ background-color: cadetblue;
+ 
+}
+
+.tituloCentralizado {
+  text-align: center;
+}
+ 
+ul {
+  display: inline-block;
+  width:20%;
+  margin-right: 15%;
+  vertical-align: top;
+}
